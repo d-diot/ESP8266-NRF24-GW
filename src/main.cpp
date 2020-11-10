@@ -60,10 +60,7 @@
 
 // Enables and select radio type (if attached)
 #define MY_RADIO_RF24
-//#define MY_RADIO_RFM69
-//#define MY_RADIO_RFM95
-
-//#define MY_RF24_PA_LEVEL RF24_PA_LOW
+//#define MY_RF24_PA_LEVEL RF24_PA_MAX
 
 #define MY_GATEWAY_ESP8266
 
