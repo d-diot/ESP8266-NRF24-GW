@@ -64,15 +64,15 @@
 
 #define MY_GATEWAY_ESP8266
 
-#define MY_WIFI_SSID "wifihome"
-#define MY_WIFI_PASSWORD "storagegilson"
+#define MY_WIFI_SSID "YOUR_WIFI_SSID"
+#define MY_WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
 
 // Enable UDP communication
 //#define MY_USE_UDP  // If using UDP you need to set MY_CONTROLLER_IP_ADDRESS or MY_CONTROLLER_URL_ADDRESS below
 
 // Set the hostname for the WiFi Client. This is the hostname
 // it will pass to the DHCP server if not static.
-#define MY_HOSTNAME "NRF24GW"
+#define MY_HOSTNAME "nrf24gw"
 
 // Enable MY_IP_ADDRESS here if you want a static ip address (no DHCP)
 //#define MY_IP_ADDRESS 192,168,178,87
