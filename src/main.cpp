@@ -64,7 +64,7 @@
 
 #define MY_GATEWAY_ESP8266
 
-#define MY_WIFI_SSID "YOUR_WIFI_SSID"
+#define MY_WIFI_SSID "YOUR_WIFI_NET_NAME"
 #define MY_WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
 
 // Enable UDP communication
